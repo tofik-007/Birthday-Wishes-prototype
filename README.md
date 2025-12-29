@@ -97,12 +97,3 @@ Personal use only. For commercial use, contact author.
 ---
 
 **Deploy now → Make her day magical!** 🎉💙✨
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/93958833/e695fabb-ea0d-42b1-a924-846ab01b8ef8/image.jpg)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/93958833/da46b5be-1029-4f8c-a719-bc10f229fbeb/image.jpg)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/93958833/89ca3400-8f01-461c-947c-5a860d7cd052/image.jpg)
-[4](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/93958833/18bf2ab7-01c9-4587-bbeb-5ddc2a148623/image.jpg)
-[5](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/93958833/144998d8-b530-436b-a282-0f8855e93e75/image.jpg)
-[6](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/93958833/4723639f-58ca-4913-9336-c94b0b071774/image.jpg)
-[7](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/93958833/e3ebde34-1689-4333-b7b9-41ed9fe5730c/image.jpg)
-[8](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/93958833/20814b94-bc04-4d03-88ea-c7543b26db03/image.jpg)
