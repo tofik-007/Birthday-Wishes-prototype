@@ -1,6 +1,6 @@
-# Taufik's Dua - 21st Birthday Love Page 🎉💙
+ Birthday Page 🎉💙
 
-A romantic, fully animated birthday webpage for Dua's 21st birthday with floating hearts, confetti explosions, love languages in 13 languages, and romantic piano sounds.
+A romantic, fully animated birthday webpage for birthday with floating hearts, confetti explosions, love languages in 13 languages, and romantic piano sounds.
 
 ## ✨ Features
 - 🎊 **Confetti explosion** on page load
@@ -16,7 +16,7 @@ Upload to [Netlify](https://netlify.com), [Vercel](https://vercel.com), or [GitH
 
 ## 📁 File Structure
 ```
-dua-birthday/
+birthday/
 ├── index.html      # Main page
 ├── style.css       # Styles + animations
 └── script.js       # Confetti, hearts, sound, interactions
@@ -55,7 +55,7 @@ Edit `loveTexts` array in `script.js`
 ```bash
 git init
 git add .
-git commit -m "Dua's birthday page"
+git commit -m " birthday page"
 git push origin main
 Settings → Pages → Deploy from branch → main
 ```
@@ -75,9 +75,8 @@ Settings → Pages → Deploy from branch → main
 - Mobile browser opening
 - Forever bookmark
 
-## ❤️ Made With Love For
-**Dua** - Future wife, answered dua 💍  
-**21st Birthday** - Special milestone celebration
+## ❤️ Made With Love For  
+**Birthday** - Special milestone celebration
 
 ***
 
@@ -86,7 +85,7 @@ Settings → Pages → Deploy from branch → main
 
 ```
 Made with ❤️ by Taufik
-For Dua - Forever & Always 💙
+Forever & Always 💙
 ```
 
 ***
